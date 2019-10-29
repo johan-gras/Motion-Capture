@@ -8,4 +8,4 @@ A GUI application on a remote computer lets you observe the motion in real time.
 
 Project description: [Website](https://johan-gras.github.io/projects/motioncapture/)
 
-![The New Wiimote](wiimote.png "The New Wiimote")
+![The New Wiimote](wiimote.jpg "The New Wiimote")
