@@ -12,5 +12,5 @@ Project description: [Website](https://johan-gras.github.io/projects/motioncaptu
 
 ## How to use
 There are two source folders: one for the Gumstix and one for your Linux computer. You need to compile them.
-- For the first one, you need to crossbuild the program on your computer Then, you can upload the executable on the device. The main is located inside time.c
+- For the first one, you need to crossbuild the program on your computer. Then, you can upload the executable on the device. The main is located inside time.c
 - For the second one, you can build the program as usual with GCC. The main is located inside base_opengl.c
